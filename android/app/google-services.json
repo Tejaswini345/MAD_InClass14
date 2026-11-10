@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840071459603",
+    "project_id": "madinclass14-fcm",
+    "storage_bucket": "madinclass14-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840071459603:android:4628460f4ae5185a2120e6",
+        "android_client_info": {
+          "package_name": "com.yourname.cloud_courier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAWotrBQGZORuTg7JCErIn_Wgq0-fKmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
